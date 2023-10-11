@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/bin/Debug/net6.0/EmployeeTask
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/bin/Debug/net6.0/EmployeeTask.deps.json
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/bin/Debug/net6.0/EmployeeTask.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/bin/Debug/net6.0/EmployeeTask.dll
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/bin/Debug/net6.0/EmployeeTask.pdb
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.dll
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/refint/EmployeeTask.dll
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.pdb
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/EmployeeTask.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/EmployeeTask/EmployeeTask/obj/Debug/net6.0/ref/EmployeeTask.dll
